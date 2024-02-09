@@ -2,6 +2,6 @@ handleGHRelease: true
 manifest: true
 branches: 
   branch: release
-  type: ['node']
+  releaseType: 'node'
   handleGHRelease: true
   manifest: true
